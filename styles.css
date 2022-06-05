@@ -1,0 +1,24 @@
+.card-margin {
+    margin: 20px auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.cc-border {
+    background-color: gray;
+    padding-left: 3px;
+    width: 150px;
+}
+
+i {
+    color:white;
+}
+
+p{
+    color: gray;
+    font-size: small;
+}
+
+label {
+    font-weight: 500;
+}
